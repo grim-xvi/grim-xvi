@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grim-xvi
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Software Engineering
-- 🌱 I’m currently learning C/C++, Java, Python
+- 🌱 I’m currently learning C/C++, Java, Python, Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (@grim.xvi on Instagram)
 - ⚡ Fun fact: ...
